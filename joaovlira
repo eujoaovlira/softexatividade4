@@ -1,0 +1,63 @@
+programa
+{
+	
+	funcao inicio()
+
+ cadeia nome caracter
+
+cadeia Endereço:caracter
+
+cadeia Cidade:caracter
+
+cadeia CPF:caracter
+
+cadeia RG:caracter
+
+cadeia Idade:inteiro
+
+cadeia Nome_do_pai: caracter
+
+cadeia Nome_da_mae:caracter
+
+cadeia Peso:real
+
+cadeia Renda_bruta:real
+
+
+
+escreva ("qual seu nome?")
+leia (Nome)
+escreva("qual seu endereço?")
+leia (Endereço)
+escreva("qual sua cidade?")
+leia (Cidade)
+escreva ("qual seu cpf?")
+leia (Cpf)
+escreva ("qual seu rg?")
+leia (Rg)		
+escreva ("qual sua idade?")
+leia (Idade)
+escreva ("qual nome do seu pai?")
+leia (Nome_do_pai)
+escreva ("qual nome da sua mãe?")
+leia (Nome_da_mãe)
+esvreva ("qual seu peso?")
+leia (Peso)	
+esccreva ("qual sua renda bruta?")
+leia (Renda_bruta)
+
+escreva ("cadastro conclúido com sucesso!","n")
+
+
+escreva(" *************************", "\n")
+escreva("Nome:", nome, "\n")
+escreva("Endereço:", endereco , "\n")
+escreva("Cidade:", cidade, "\n")
+escreva("CPF:", cpf, "\n")
+escreva("RG:", rg, "\n")
+escreva("Idade:", idade, "\n")
+escreva("Pai:", pai, "\n")
+escreva("Mãe:", mae, "\n")
+escreva("Peso:", peso, "\n")
+escreva("Renda Bruta:", rendabruta ,"\n")
+escreva(" *************************", "\n")
